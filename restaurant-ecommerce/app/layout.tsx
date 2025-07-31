@@ -29,7 +29,7 @@ export default function RootLayout({
             <div className="container mx-auto px-4">
               <div className="grid md:grid-cols-4 gap-8">
                 <div>
-                  <h3 className="text-xl font-bold mb-4">Bella Vista</h3>
+                  <h3 className="text-xl font-bold mb-4">dharun mess</h3>
                   <p className="text-gray-400">Authentic Italian cuisine made with love and fresh ingredients.</p>
                 </div>
                 <div>
